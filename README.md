@@ -1,4 +1,4 @@
-### Seja bem vindo!
+### Welcome
 
 <br>
 
@@ -11,19 +11,17 @@
 
 <br>
 
-<div style="display: inline_block">
-  <!-- Tecnologias que Conheço -->
-  <h4>Linguagens que conheço:</h4>
-  <img align="center" alt="luan Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="luan Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
-  <img align="center" alt="luan HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img align="center" alt="luan CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-  <br><br>
-
-  <!-- Tecnologias que Estou Aprendendo -->
-  <h4>Estou Aprendendo:</h4>
-  <img align="center" alt="luan CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" />
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 2rem;">
+  <div>
+    <b><h3 align="center">Programming Skills:</h3><b/>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
+  </div>
+ </div>
 </div>
 
 <br>
@@ -33,3 +31,7 @@
   <a href="mailto:luanvitormendesb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luanvmbb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
