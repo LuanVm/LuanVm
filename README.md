@@ -8,13 +8,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  ## Conheço:
+  
+  ### Conheço:
   <img align="center" alt="luan Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="luan Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
-
-  ## Estou aprendendo:
   <img align="center" alt="luan HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt="luan CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+  ### Estou aprendendo:
   <img align="center" alt="luan CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" />
 </div>
 
