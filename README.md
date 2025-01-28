@@ -1,4 +1,4 @@
-### Welcome! My name is Luan Vitor. 😊 Feel free to make yourself at home!"
+<b><h2 align="center"> Welcome! My name is Luan Vitor. 😊 Feel free to make yourself at home! <h2/><b/>
 
 <br>
 
