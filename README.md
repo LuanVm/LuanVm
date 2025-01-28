@@ -1,4 +1,4 @@
-### Welcome
+### Welcome! My name is Luan Vitor. 😊 Feel free to make yourself at home!"
 
 <br>
 
