@@ -10,11 +10,12 @@ Iniciei minha jornada solucionando problemas e prestando suporte, o que me propo
 <div align="left"; style="display: flex; align-items: flex-start; justify-content: center; gap: 1rem;">
   <b><h4>✨ Programing Skills ✨</h4><b/>
   <div align="left">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/unity.svg" alt="Desenvolvimento de Jogos" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="Java" style="max-width: 90px; height: 32px; vertical-align: top; margin: 4px;">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 90px; height: 32px; vertical-align: top; margin: 4px;">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="max-width: 90px; height: 32px; vertical-align: top; margin: 4px;">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="CSS" style="max-width: 90px; height: 32px; vertical-align: top; margin: 4px;">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/unity.svg" alt="Desenvolvimento de Jogos" style="max-width: 90px; height: 32px; vertical-align: top; margin: 4px;">
+
 </div>
 </p>
   <a href="mailto:luanvitormendesb@gmail.com" target="_blank">
