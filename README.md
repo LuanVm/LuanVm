@@ -30,6 +30,6 @@ Iniciei minha jornada solucionando problemas e prestando suporte, o que me propo
 <br>
 <br>
 <div align="center"; style="display: flex; align-items: flex-start; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanVm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=true&order=1" height="160" alt="status">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanVm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&hide_border=true&order=1" height="160" alt="status">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVm&hide_title=false&layout=compact&card_width=383&langs_count=5&theme=ambient_gradient&hide_border=true&order=2" height="160" alt="linguagens">  
 </div>
